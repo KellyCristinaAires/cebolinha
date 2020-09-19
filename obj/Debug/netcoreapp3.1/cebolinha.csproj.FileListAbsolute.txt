@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.exe
+C:\Users\kelly\Documents\atividadespc1\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.deps.json
+C:\Users\kelly\Documents\atividadespc1\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.dll
+C:\Users\kelly\Documents\atividadespc1\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.pdb
+C:\Users\kelly\Documents\atividadespc1\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.dll
+C:\Users\kelly\Documents\atividadespc1\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.pdb
+C:\Users\kelly\Documents\atividadespc1\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.genruntimeconfig.cache
